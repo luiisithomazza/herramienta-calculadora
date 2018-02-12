@@ -1,0 +1,19 @@
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\bin\Debug\Calculadora de Horas.exe.config
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\bin\Debug\Calculadora de Horas.exe
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\bin\Debug\Calculadora de Horas.pdb
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.csprojResolveAssemblyReference.cache
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora_de_Horas.Form1.resources
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora_de_Horas.Properties.Resources.resources
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.csproj.GenerateResource.Cache
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.csproj.CoreCompileInputs.cache
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.exe
+C:\Users\Yuvitza\Desktop\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.pdb
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\bin\Debug\Calculadora de Horas.exe.config
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.exe
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.pdb
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\bin\Debug\Calculadora de Horas.exe
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\bin\Debug\Calculadora de Horas.pdb
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.csprojResolveAssemblyReference.cache
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora_de_Horas.Properties.Resources.resources
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora de Horas.csproj.GenerateResource.Cache
+F:\PRACTICA RIGO\UNACH\Calculadora de Horas\obj\Debug\Calculadora_de_Horas.calculadora.resources
